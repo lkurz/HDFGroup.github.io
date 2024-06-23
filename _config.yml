@@ -11,6 +11,8 @@ site.github.is_user_page: false
 google_analytics: G-XQWF3YLCRQ 
 # theme: jekyll-theme-minimal # uses remote theme above
 
+baseurl: /{{ site.github.repository_name }}
+
 defaults:
   - scope:
       path: ""
