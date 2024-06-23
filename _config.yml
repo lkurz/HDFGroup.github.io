@@ -7,11 +7,9 @@ description: Ensuring long-term access and usability of HDF data and supporting 
 
 logo: /assets/img/logo.png
 show_downloads: false
-site.github.is_user_page: false
+site.github.is_user_page: true
 google_analytics: G-XQWF3YLCRQ 
 # theme: jekyll-theme-minimal # uses remote theme above
-
-baseurl: /{{ site.github.repository_name }}
 
 defaults:
   - scope:
