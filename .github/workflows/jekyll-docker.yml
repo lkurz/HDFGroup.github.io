@@ -1,10 +1,6 @@
 name: Jekyll site CI
 
 on:
-  push:
-    branches: [ "support-site" ]
-  pull_request:
-    branches: [ "support-site" ]
   workflow_dispatch:
 
 jobs:
